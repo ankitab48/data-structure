@@ -9,7 +9,3 @@ typedef struct doublyLinkedList
 {
     /* data */
 } doublyLinkedList;
-
-void thisIsMyFunction() {
-
-}
